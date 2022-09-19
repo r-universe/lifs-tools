@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rgoslin"]
+	path = rgoslin
+	url = https://github.com/lifs-tools/rgoslin
+	shallow = true
+	registered = true
